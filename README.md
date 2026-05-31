@@ -2,7 +2,8 @@
 
 <p align="center">
   High-school maker who likes turning messy real-world problems into clean code.<br>
-  Open-source <b>hardware &amp; tools</b> · interested in physics, math, and engineering.
+  Open-source <b>hardware &amp; tools</b> · interested in physics, math, and engineering.<br>
+  <sub>Currently: shipping the FindItem hardware project and a few small Python tools.</sub>
 </p>
 
 <p align="center">
