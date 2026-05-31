@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39D353" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=39D353" alt="C++">
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=39D353" alt="ESP32">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39D353" alt="Java">
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39D353" alt="FastAPI">
+  <img src="https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logo=mqtt&logoColor=39D353" alt="MQTT">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39D353" alt="JavaScript">
 </p>
 
 ---
@@ -29,24 +29,24 @@
   <tr>
     <td>
       <a href="https://github.com/HarryXin0919/FindItem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=FindItem&theme=tokyonight&hide_border=true" alt="FindItem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=FindItem&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="FindItem">
       </a>
     </td>
     <td>
       <a href="https://github.com/HarryXin0919/pantrypath">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=pantrypath&theme=tokyonight&hide_border=true" alt="pantrypath">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=pantrypath&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="pantrypath">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/HarryXin0919/viralens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=viralens&theme=tokyonight&hide_border=true" alt="viralens">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=viralens&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="viralens">
       </a>
     </td>
     <td>
       <a href="https://github.com/HarryXin0919/findit-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=findit-website&theme=tokyonight&hide_border=true" alt="findit-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=findit-website&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="findit-website">
       </a>
     </td>
   </tr>
@@ -60,8 +60,8 @@
 ### 📈 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarryXin0919&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryXin0919&layout=compact&theme=tokyonight&hide_border=true" alt="top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarryXin0919&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryXin0919&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="top languages">
 </p>
 
 <sub>Stat cards are rendered by the open-source <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> service.</sub>
