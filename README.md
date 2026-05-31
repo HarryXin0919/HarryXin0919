@@ -30,24 +30,24 @@
   <tr>
     <td>
       <a href="https://github.com/HarryXin0919/FindItem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=FindItem&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="FindItem">
+        <img src="assets/cards/finditem.png" alt="FindItem" width="100%">
       </a>
     </td>
     <td>
       <a href="https://github.com/HarryXin0919/pantrypath">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=pantrypath&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="pantrypath">
+        <img src="assets/cards/pantrypath.png" alt="pantrypath" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/HarryXin0919/viralens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=viralens&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="viralens">
+        <img src="assets/cards/viralens.png" alt="viralens" width="100%">
       </a>
     </td>
     <td>
       <a href="https://github.com/HarryXin0919/findit-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryXin0919&repo=findit-website&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="findit-website">
+        <img src="assets/cards/findit-website.png" alt="findit-website" width="100%">
       </a>
     </td>
   </tr>
@@ -61,8 +61,10 @@
 ### 📈 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarryXin0919&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryXin0919&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="top languages">
+  <img src="https://img.shields.io/github/followers/HarryXin0919?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117&logoColor=39D353" alt="followers">
+  <img src="https://img.shields.io/github/stars/HarryXin0919?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117&logoColor=39D353" alt="total stars">
 </p>
 
-<sub>Stat cards are rendered by the open-source <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> service.</sub>
+<p align="center">
+  <sub>Most-used: Python · C++ (ESP32) · Java · HTML/JS — see the project cards above for the real mix.</sub>
+</p>
